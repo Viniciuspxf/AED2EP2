@@ -1,0 +1,1065 @@
+Digite o número mínimo de letras de cada palavra no grafo: Digite o nome do arquivo: Digite 1 para o número de vértices
+Digite 2 para o número de arestas
+Digite 3 para grau médio de vértices
+Digite 4 para a densidade do grafo
+Digite 5 para saber se o grafo é conexo
+Digite 6 para saber quantas componentes o grafo tem
+Digite 7 para saber o tamanho da componente que uma palavra está
+Digite 8 para o tamanho médio das componentes
+Digite 9 para saber a componente máxima e mínima
+Digite 10 para saber se uma palavra está em um ciclo
+Digite 11 para saber se se duas palavras estão em um ciclo
+Digite 12 para saber a distância entre uma palavra e outra
+Digite 13 para saber a distância média entre uma palavra e outra
+Digite 14 para sair
+palavra: Mussum
+
+
+palavra: Ipsum
+
+ipsum
+
+palavra: cacilds
+
+
+palavra: vidis
+
+
+palavra: litro
+
+
+palavra: abertis
+
+
+palavra: A
+
+o
+u
+a
+e
+i
+
+palavra: ordem
+
+
+palavra: dos
+
+os
+
+palavra: tratores
+
+
+palavra: não
+
+pão
+Não
+
+palavra: altera
+
+
+palavra: o
+
+A
+u
+a
+no
+e
+i
+os
+
+palavra: pão
+
+não
+Não
+
+palavra: duris
+
+
+palavra: Delegadis
+
+
+palavra: gente
+
+
+palavra: finis
+
+
+palavra: bibendum
+
+
+palavra: egestas
+
+
+palavra: augue
+
+
+palavra: arcu
+
+
+palavra: ut
+
+Ut
+u
+um
+et
+
+palavra: est
+
+et
+
+palavra: Casamentiss
+
+
+palavra: faiz
+
+
+palavra: malandris
+
+
+palavra: se
+
+sed
+de
+sem
+e
+ce
+
+palavra: pirulitá
+
+
+palavra: Manduma
+
+
+palavra: pindureta
+
+
+palavra: quium
+
+
+palavra: dia
+
+di
+diam
+
+palavra: nois
+
+
+palavra: paga
+
+
+palavra: Mauris
+
+
+palavra: nec
+
+Nec
+
+palavra: dolor
+
+
+palavra: in
+
+im
+i
+In
+
+palavra: eros
+
+
+palavra: commodo
+
+
+palavra: tempor
+
+
+palavra: Aenean
+
+
+palavra: aliquam
+
+
+palavra: molestie
+
+
+palavra: leo
+
+levo
+
+palavra: vitae
+
+
+palavra: iaculis
+
+
+palavra: nisl
+
+nisi
+
+palavra: Mé
+
+mé
+é
+pé
+
+palavra: elementum
+
+
+palavra: girarzis
+
+
+palavra: nisi
+
+nisl
+
+palavra: vermeio
+
+
+palavra: Si
+
+di
+i
+
+palavra: num
+
+um
+
+palavra: tem
+
+sem
+
+palavra: leite
+
+Leite
+
+palavra: então
+
+
+palavra: bota
+
+boa
+
+palavra: uma
+
+um
+
+palavra: pinga
+
+
+palavra: aí
+
+
+palavra: cumpadi
+
+
+palavra: Tá
+
+tá
+lá
+
+palavra: deprimidis
+
+
+palavra: eu
+
+ex
+u
+et
+e
+
+palavra: conheço
+
+
+palavra: cachacis
+
+
+palavra: que
+
+quo
+qui
+quem
+
+palavra: pode
+
+pose
+
+palavra: alegrar
+
+
+palavra: sua
+
+
+palavra: Praesent
+
+
+palavra: malesuada
+
+
+palavra: urna
+
+
+palavra: quis
+
+qui
+
+palavra: volutpat
+
+
+palavra: erat
+
+
+palavra: hendrerit
+
+
+palavra: non
+
+no
+
+palavra: Nam
+
+
+palavra: vulputate
+
+
+palavra: dapibus
+
+
+palavra: Quem
+
+quem
+
+palavra: gosta
+
+
+palavra: di
+
+dia
+Si
+de
+i
+
+palavra: mé
+
+Mé
+é
+pé
+
+palavra: boa
+
+bota
+
+palavra: gentis
+
+
+palavra: é
+
+Mé
+mé
+pé
+
+palavra: mim
+
+im
+
+palavra: vai
+
+
+palavra: caçá
+
+
+palavra: turmis
+
+turpis
+
+palavra: Paisis
+
+
+palavra: filhis
+
+
+palavra: espiritis
+
+
+palavra: santis
+
+
+palavra: Vehicula
+
+vehicula
+
+palavra: Ut
+
+ut
+et
+
+palavra: sed
+
+se
+sem
+Sed
+
+palavra: ex
+
+eu
+et
+e
+
+palavra: Vivamus
+
+
+palavra: sit
+
+
+palavra: amet
+
+
+palavra: nibh
+
+
+palavra: tellus
+
+
+palavra: tristique
+
+
+palavra: interdum
+
+
+palavra: Cevadis
+
+
+palavra: im
+
+in
+mim
+um
+i
+Em
+
+palavra: ampola
+
+
+palavra: pa
+
+a
+na
+pau
+pra
+
+palavra: arma
+
+
+palavra: Copo
+
+copo
+
+palavra: furadis
+
+
+palavra: disculpa
+
+
+palavra: de
+
+se
+di
+e
+ce
+
+palavra: bebadis
+
+
+palavra: quam
+
+quem
+
+palavra: euismod
+
+
+palavra: magna
+
+
+palavra: u
+
+A
+o
+ut
+eu
+um
+a
+e
+i
+
+palavra: mundo
+
+
+palavra: tá
+
+Tá
+lá
+
+palavra: muito
+
+
+palavra: paradis
+
+
+palavra: Toma
+
+
+palavra: um
+
+ut
+num
+uma
+im
+u
+Em
+
+palavra: Pra
+
+pra
+
+palavra: lá
+
+Tá
+tá
+
+palavra: depois
+
+
+palavra: divoltis
+
+
+palavra: porris
+
+
+palavra: Posuere
+
+
+palavra: libero
+
+
+palavra: varius
+
+
+palavra: Nullam
+
+
+palavra: a
+
+A
+o
+pa
+u
+na
+ad
+ac
+e
+i
+as
+
+palavra: ante
+
+
+palavra: blandit
+
+
+palavra: manda
+
+
+palavra: na
+
+pa
+a
+no
+
+palavra: minha
+
+
+palavra: terra
+
+
+palavra: sou
+
+
+palavra: euzis
+
+
+palavra: Admodum
+
+
+palavra: accumsan
+
+
+palavra: disputationi
+
+
+palavra: Vide
+
+
+palavra: electram
+
+
+palavra: sadipscing
+
+
+palavra: et
+
+ut
+est
+eu
+Ut
+ex
+e
+
+palavra: per
+
+Per
+
+palavra: Viva
+
+
+palavra: Forevis
+
+
+palavra: aptent
+
+
+palavra: taciti
+
+
+palavra: sociosqu
+
+
+palavra: ad
+
+a
+ac
+as
+
+palavra: litora
+
+
+palavra: torquent
+
+
+palavra: Atirei
+
+
+palavra: pau
+
+pa
+
+palavra: no
+
+o
+non
+na
+
+palavra: gatis
+
+matis
+
+palavra: morreus
+
+
+palavra: Per
+
+per
+
+palavra: aumento
+
+
+palavra: reclamis
+
+
+palavra: Detraxit
+
+
+palavra: consequat
+
+
+palavra: quo
+
+que
+qui
+
+palavra: tendi
+
+
+palavra: nada
+
+
+palavra: Interagi
+
+
+palavra: cursus
+
+
+palavra: vehicula
+
+Vehicula
+
+palavra: ac
+
+a
+ad
+as
+
+palavra: vel
+
+
+palavra: viverra
+
+
+palavra: aliquet
+
+
+palavra: nunc
+
+
+palavra: turpis
+
+turmis
+
+palavra: scelerisque
+
+
+palavra: eget
+
+
+palavra: Leite
+
+leite
+
+palavra: capivaris
+
+
+palavra: mula
+
+
+palavra: manquis
+
+
+palavra: sem
+
+se
+tem
+sed
+
+palavra: cabeça
+
+
+palavra: Não
+
+não
+pão
+
+palavra: faixa
+
+
+palavra: preta
+
+preto
+
+palavra: preto
+
+preta
+
+palavra: inteiris
+
+
+palavra: Suco
+
+
+palavra: cevadiss
+
+
+palavra: divinis
+
+
+palavra: qui
+
+que
+quis
+quo
+
+palavra: lupuliz
+
+
+palavra: matis
+
+gatis
+mais
+
+palavra: aguis
+
+
+palavra: e
+
+A
+o
+se
+eu
+ex
+de
+u
+a
+et
+i
+ce
+
+palavra: fermentis
+
+
+palavra: Diuretics
+
+
+palavra: copo
+
+Copo
+
+palavra: motivis
+
+
+palavra: denguis
+
+
+palavra: Sapien
+
+
+palavra: monti
+
+
+palavra: palavris
+
+
+palavra: significa
+
+
+palavra: nadis
+
+
+palavra: i
+
+A
+o
+in
+Si
+di
+im
+u
+a
+e
+
+palavra: pareci
+
+
+palavra: latim
+
+
+palavra: In
+
+in
+
+palavra: elementis
+
+
+palavra: pra
+
+pa
+Pra
+
+palavra: quem
+
+que
+Quem
+quam
+
+palavra: amistosis
+
+
+palavra: Mais
+
+mais
+
+palavra: vale
+
+
+palavra: conhecidiss
+
+
+palavra: alcoolatra
+
+
+palavra: anonimis
+
+
+palavra: Em
+
+im
+um
+
+palavra: pé
+
+Mé
+mé
+é
+
+palavra: cair
+
+
+palavra: deitado
+
+
+palavra: dormir
+
+
+palavra: sentado
+
+
+palavra: cochilar
+
+
+palavra: fazendo
+
+
+palavra: pose
+
+pode
+
+palavra: Todo
+
+
+palavra: vê
+
+
+palavra: os
+
+dos
+o
+as
+
+palavra: tomo
+
+
+palavra: mas
+
+mais
+as
+
+palavra: ninguém
+
+
+palavra: tombis
+
+
+palavra: levo
+
+leo
+
+palavra: Interessantiss
+
+
+palavra: quisso
+
+
+palavra: pudia
+
+
+palavra: ce
+
+se
+de
+e
+
+palavra: receita
+
+
+palavra: bolis
+
+
+palavra: mais
+
+matis
+Mais
+mas
+
+palavra: gostis
+
+
+palavra: Nec
+
+nec
+
+palavra: orci
+
+
+palavra: ornare
+
+
+palavra: lacinia
+
+
+palavra: ultrices
+
+
+palavra: consectetur
+
+
+palavra: Sed
+
+sed
+
+palavra: ipsum
+
+Ipsum
+
+palavra: felis
+
+
+palavra: risus
+
+
+palavra: diam
+
+dia
+
+palavra: laoreet
+
+
+palavra: odio
+
+
+palavra: deixa
+
+
+palavra: as
+
+a
+ad
+ac
+os
+mas
+
+palavra: pessoas
+
+
+palavra: interessantis
+
+
+Digite 1 para o número de vértices
+Digite 2 para o número de arestas
+Digite 3 para grau médio de vértices
+Digite 4 para a densidade do grafo
+Digite 5 para saber se o grafo é conexo
+Digite 6 para saber quantas componentes o grafo tem
+Digite 7 para saber o tamanho da componente que uma palavra está
+Digite 8 para o tamanho médio das componentes
+Digite 9 para saber a componente máxima e mínima
+Digite 10 para saber se uma palavra está em um ciclo
+Digite 11 para saber se se duas palavras estão em um ciclo
+Digite 12 para saber a distância entre uma palavra e outra
+Digite 13 para saber a distância média entre uma palavra e outra
+Digite 14 para sair
+Finalizando...

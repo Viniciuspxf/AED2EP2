@@ -1,0 +1,428 @@
+Digite o número mínimo de letras de cada palavra no grafo: Digite o nome do arquivo: Digite 1 para o número de vértices
+Digite 2 para o número de arestas
+Digite 3 para grau médio de vértices
+Digite 4 para a densidade do grafo
+Digite 5 para saber se o grafo é conexo
+Digite 6 para saber quantas componentes o grafo tem
+Digite 7 para saber o tamanho da componente que uma palavra está
+Digite 8 para o tamanho médio das componentes
+Digite 9 para saber a componente máxima e mínima
+Digite 10 para saber se uma palavra está em um ciclo
+Digite 11 para saber se se duas palavras estão em um ciclo
+Digite 12 para saber a distância entre uma palavra e outra
+Digite 13 para saber a distância média entre uma palavra e outra
+Digite 14 para sair
+'A' está em ciclo.
+'não' está em ciclo.
+'o' está em ciclo.
+'pão' está em ciclo.
+'ut' está em ciclo.
+'se' está em ciclo.
+'in' está em ciclo.
+'Mé' está em ciclo.
+'Si' está em ciclo.
+'Tá' está em ciclo.
+'eu' está em ciclo.
+'que' está em ciclo.
+'di' está em ciclo.
+'mé' está em ciclo.
+'é' está em ciclo.
+'Ut' está em ciclo.
+'sed' está em ciclo.
+'ex' está em ciclo.
+'im' está em ciclo.
+'pa' está em ciclo.
+'de' está em ciclo.
+'u' está em ciclo.
+'tá' está em ciclo.
+'um' está em ciclo.
+'lá' está em ciclo.
+'a' está em ciclo.
+'na' está em ciclo.
+'et' está em ciclo.
+'ad' está em ciclo.
+'no' está em ciclo.
+'quo' está em ciclo.
+'ac' está em ciclo.
+'sem' está em ciclo.
+'Não' está em ciclo.
+'qui' está em ciclo.
+'e' está em ciclo.
+'i' está em ciclo.
+'Em' está em ciclo.
+'pé' está em ciclo.
+'os' está em ciclo.
+'ce' está em ciclo.
+'as' está em ciclo.
+
+'A' e 'o' estão em ciclo.
+'A' e 'ut' estão em ciclo.
+'A' e 'se' estão em ciclo.
+'A' e 'in' estão em ciclo.
+'A' e 'Si' estão em ciclo.
+'A' e 'eu' estão em ciclo.
+'A' e 'di' estão em ciclo.
+'A' e 'Ut' estão em ciclo.
+'A' e 'ex' estão em ciclo.
+'A' e 'im' estão em ciclo.
+'A' e 'pa' estão em ciclo.
+'A' e 'de' estão em ciclo.
+'A' e 'u' estão em ciclo.
+'A' e 'um' estão em ciclo.
+'A' e 'a' estão em ciclo.
+'A' e 'na' estão em ciclo.
+'A' e 'et' estão em ciclo.
+'A' e 'ad' estão em ciclo.
+'A' e 'no' estão em ciclo.
+'A' e 'ac' estão em ciclo.
+'A' e 'e' estão em ciclo.
+'A' e 'i' estão em ciclo.
+'A' e 'Em' estão em ciclo.
+'A' e 'os' estão em ciclo.
+'A' e 'ce' estão em ciclo.
+'A' e 'as' estão em ciclo.
+'não' e 'pão' estão em ciclo.
+'não' e 'Não' estão em ciclo.
+'o' e 'ut' estão em ciclo.
+'o' e 'se' estão em ciclo.
+'o' e 'in' estão em ciclo.
+'o' e 'Si' estão em ciclo.
+'o' e 'eu' estão em ciclo.
+'o' e 'di' estão em ciclo.
+'o' e 'Ut' estão em ciclo.
+'o' e 'ex' estão em ciclo.
+'o' e 'im' estão em ciclo.
+'o' e 'pa' estão em ciclo.
+'o' e 'de' estão em ciclo.
+'o' e 'u' estão em ciclo.
+'o' e 'um' estão em ciclo.
+'o' e 'a' estão em ciclo.
+'o' e 'na' estão em ciclo.
+'o' e 'et' estão em ciclo.
+'o' e 'ad' estão em ciclo.
+'o' e 'no' estão em ciclo.
+'o' e 'ac' estão em ciclo.
+'o' e 'e' estão em ciclo.
+'o' e 'i' estão em ciclo.
+'o' e 'Em' estão em ciclo.
+'o' e 'os' estão em ciclo.
+'o' e 'ce' estão em ciclo.
+'o' e 'as' estão em ciclo.
+'pão' e 'Não' estão em ciclo.
+'ut' e 'se' estão em ciclo.
+'ut' e 'in' estão em ciclo.
+'ut' e 'Si' estão em ciclo.
+'ut' e 'eu' estão em ciclo.
+'ut' e 'di' estão em ciclo.
+'ut' e 'Ut' estão em ciclo.
+'ut' e 'ex' estão em ciclo.
+'ut' e 'im' estão em ciclo.
+'ut' e 'pa' estão em ciclo.
+'ut' e 'de' estão em ciclo.
+'ut' e 'u' estão em ciclo.
+'ut' e 'um' estão em ciclo.
+'ut' e 'a' estão em ciclo.
+'ut' e 'na' estão em ciclo.
+'ut' e 'et' estão em ciclo.
+'ut' e 'ad' estão em ciclo.
+'ut' e 'no' estão em ciclo.
+'ut' e 'ac' estão em ciclo.
+'ut' e 'e' estão em ciclo.
+'ut' e 'i' estão em ciclo.
+'ut' e 'Em' estão em ciclo.
+'ut' e 'os' estão em ciclo.
+'ut' e 'ce' estão em ciclo.
+'ut' e 'as' estão em ciclo.
+'se' e 'Si' estão em ciclo.
+'se' e 'eu' estão em ciclo.
+'se' e 'di' estão em ciclo.
+'se' e 'Ut' estão em ciclo.
+'se' e 'sed' estão em ciclo.
+'se' e 'ex' estão em ciclo.
+'se' e 'pa' estão em ciclo.
+'se' e 'de' estão em ciclo.
+'se' e 'u' estão em ciclo.
+'se' e 'um' estão em ciclo.
+'se' e 'a' estão em ciclo.
+'se' e 'na' estão em ciclo.
+'se' e 'et' estão em ciclo.
+'se' e 'ad' estão em ciclo.
+'se' e 'no' estão em ciclo.
+'se' e 'ac' estão em ciclo.
+'se' e 'sem' estão em ciclo.
+'se' e 'e' estão em ciclo.
+'se' e 'i' estão em ciclo.
+'se' e 'os' estão em ciclo.
+'se' e 'ce' estão em ciclo.
+'se' e 'as' estão em ciclo.
+'in' e 'Si' estão em ciclo.
+'in' e 'eu' estão em ciclo.
+'in' e 'di' estão em ciclo.
+'in' e 'ex' estão em ciclo.
+'in' e 'im' estão em ciclo.
+'in' e 'pa' estão em ciclo.
+'in' e 'de' estão em ciclo.
+'in' e 'u' estão em ciclo.
+'in' e 'um' estão em ciclo.
+'in' e 'a' estão em ciclo.
+'in' e 'na' estão em ciclo.
+'in' e 'et' estão em ciclo.
+'in' e 'ad' estão em ciclo.
+'in' e 'no' estão em ciclo.
+'in' e 'ac' estão em ciclo.
+'in' e 'e' estão em ciclo.
+'in' e 'i' estão em ciclo.
+'in' e 'Em' estão em ciclo.
+'in' e 'os' estão em ciclo.
+'in' e 'as' estão em ciclo.
+'Mé' e 'mé' estão em ciclo.
+'Mé' e 'é' estão em ciclo.
+'Mé' e 'pé' estão em ciclo.
+'Si' e 'eu' estão em ciclo.
+'Si' e 'di' estão em ciclo.
+'Si' e 'Ut' estão em ciclo.
+'Si' e 'im' estão em ciclo.
+'Si' e 'pa' estão em ciclo.
+'Si' e 'de' estão em ciclo.
+'Si' e 'u' estão em ciclo.
+'Si' e 'um' estão em ciclo.
+'Si' e 'a' estão em ciclo.
+'Si' e 'na' estão em ciclo.
+'Si' e 'ad' estão em ciclo.
+'Si' e 'no' estão em ciclo.
+'Si' e 'ac' estão em ciclo.
+'Si' e 'e' estão em ciclo.
+'Si' e 'i' estão em ciclo.
+'Si' e 'Em' estão em ciclo.
+'Si' e 'os' estão em ciclo.
+'Si' e 'ce' estão em ciclo.
+'Si' e 'as' estão em ciclo.
+'Tá' e 'tá' estão em ciclo.
+'Tá' e 'lá' estão em ciclo.
+'eu' e 'di' estão em ciclo.
+'eu' e 'Ut' estão em ciclo.
+'eu' e 'ex' estão em ciclo.
+'eu' e 'im' estão em ciclo.
+'eu' e 'pa' estão em ciclo.
+'eu' e 'de' estão em ciclo.
+'eu' e 'u' estão em ciclo.
+'eu' e 'um' estão em ciclo.
+'eu' e 'a' estão em ciclo.
+'eu' e 'na' estão em ciclo.
+'eu' e 'et' estão em ciclo.
+'eu' e 'ad' estão em ciclo.
+'eu' e 'no' estão em ciclo.
+'eu' e 'ac' estão em ciclo.
+'eu' e 'e' estão em ciclo.
+'eu' e 'i' estão em ciclo.
+'eu' e 'Em' estão em ciclo.
+'eu' e 'os' estão em ciclo.
+'eu' e 'ce' estão em ciclo.
+'eu' e 'as' estão em ciclo.
+'que' e 'quo' estão em ciclo.
+'que' e 'qui' estão em ciclo.
+'di' e 'Ut' estão em ciclo.
+'di' e 'ex' estão em ciclo.
+'di' e 'im' estão em ciclo.
+'di' e 'pa' estão em ciclo.
+'di' e 'de' estão em ciclo.
+'di' e 'u' estão em ciclo.
+'di' e 'um' estão em ciclo.
+'di' e 'a' estão em ciclo.
+'di' e 'na' estão em ciclo.
+'di' e 'et' estão em ciclo.
+'di' e 'ad' estão em ciclo.
+'di' e 'no' estão em ciclo.
+'di' e 'ac' estão em ciclo.
+'di' e 'e' estão em ciclo.
+'di' e 'i' estão em ciclo.
+'di' e 'Em' estão em ciclo.
+'di' e 'os' estão em ciclo.
+'di' e 'ce' estão em ciclo.
+'di' e 'as' estão em ciclo.
+'mé' e 'é' estão em ciclo.
+'mé' e 'pé' estão em ciclo.
+'é' e 'pé' estão em ciclo.
+'Ut' e 'ex' estão em ciclo.
+'Ut' e 'im' estão em ciclo.
+'Ut' e 'pa' estão em ciclo.
+'Ut' e 'de' estão em ciclo.
+'Ut' e 'u' estão em ciclo.
+'Ut' e 'um' estão em ciclo.
+'Ut' e 'a' estão em ciclo.
+'Ut' e 'na' estão em ciclo.
+'Ut' e 'et' estão em ciclo.
+'Ut' e 'ad' estão em ciclo.
+'Ut' e 'no' estão em ciclo.
+'Ut' e 'ac' estão em ciclo.
+'Ut' e 'e' estão em ciclo.
+'Ut' e 'i' estão em ciclo.
+'Ut' e 'Em' estão em ciclo.
+'Ut' e 'os' estão em ciclo.
+'Ut' e 'ce' estão em ciclo.
+'Ut' e 'as' estão em ciclo.
+'sed' e 'sem' estão em ciclo.
+'ex' e 'im' estão em ciclo.
+'ex' e 'pa' estão em ciclo.
+'ex' e 'de' estão em ciclo.
+'ex' e 'u' estão em ciclo.
+'ex' e 'um' estão em ciclo.
+'ex' e 'a' estão em ciclo.
+'ex' e 'na' estão em ciclo.
+'ex' e 'et' estão em ciclo.
+'ex' e 'ad' estão em ciclo.
+'ex' e 'no' estão em ciclo.
+'ex' e 'ac' estão em ciclo.
+'ex' e 'e' estão em ciclo.
+'ex' e 'i' estão em ciclo.
+'ex' e 'Em' estão em ciclo.
+'ex' e 'os' estão em ciclo.
+'ex' e 'ce' estão em ciclo.
+'ex' e 'as' estão em ciclo.
+'im' e 'pa' estão em ciclo.
+'im' e 'de' estão em ciclo.
+'im' e 'u' estão em ciclo.
+'im' e 'um' estão em ciclo.
+'im' e 'a' estão em ciclo.
+'im' e 'na' estão em ciclo.
+'im' e 'et' estão em ciclo.
+'im' e 'ad' estão em ciclo.
+'im' e 'no' estão em ciclo.
+'im' e 'ac' estão em ciclo.
+'im' e 'e' estão em ciclo.
+'im' e 'i' estão em ciclo.
+'im' e 'Em' estão em ciclo.
+'im' e 'os' estão em ciclo.
+'im' e 'as' estão em ciclo.
+'pa' e 'de' estão em ciclo.
+'pa' e 'u' estão em ciclo.
+'pa' e 'um' estão em ciclo.
+'pa' e 'a' estão em ciclo.
+'pa' e 'na' estão em ciclo.
+'pa' e 'et' estão em ciclo.
+'pa' e 'ad' estão em ciclo.
+'pa' e 'no' estão em ciclo.
+'pa' e 'ac' estão em ciclo.
+'pa' e 'e' estão em ciclo.
+'pa' e 'i' estão em ciclo.
+'pa' e 'Em' estão em ciclo.
+'pa' e 'ce' estão em ciclo.
+'pa' e 'as' estão em ciclo.
+'de' e 'u' estão em ciclo.
+'de' e 'um' estão em ciclo.
+'de' e 'a' estão em ciclo.
+'de' e 'na' estão em ciclo.
+'de' e 'et' estão em ciclo.
+'de' e 'ad' estão em ciclo.
+'de' e 'no' estão em ciclo.
+'de' e 'ac' estão em ciclo.
+'de' e 'e' estão em ciclo.
+'de' e 'i' estão em ciclo.
+'de' e 'Em' estão em ciclo.
+'de' e 'os' estão em ciclo.
+'de' e 'ce' estão em ciclo.
+'de' e 'as' estão em ciclo.
+'u' e 'um' estão em ciclo.
+'u' e 'a' estão em ciclo.
+'u' e 'na' estão em ciclo.
+'u' e 'et' estão em ciclo.
+'u' e 'ad' estão em ciclo.
+'u' e 'no' estão em ciclo.
+'u' e 'ac' estão em ciclo.
+'u' e 'e' estão em ciclo.
+'u' e 'i' estão em ciclo.
+'u' e 'Em' estão em ciclo.
+'u' e 'os' estão em ciclo.
+'u' e 'ce' estão em ciclo.
+'u' e 'as' estão em ciclo.
+'tá' e 'lá' estão em ciclo.
+'um' e 'a' estão em ciclo.
+'um' e 'na' estão em ciclo.
+'um' e 'et' estão em ciclo.
+'um' e 'ad' estão em ciclo.
+'um' e 'no' estão em ciclo.
+'um' e 'ac' estão em ciclo.
+'um' e 'e' estão em ciclo.
+'um' e 'i' estão em ciclo.
+'um' e 'Em' estão em ciclo.
+'um' e 'os' estão em ciclo.
+'um' e 'ce' estão em ciclo.
+'um' e 'as' estão em ciclo.
+'a' e 'na' estão em ciclo.
+'a' e 'et' estão em ciclo.
+'a' e 'ad' estão em ciclo.
+'a' e 'no' estão em ciclo.
+'a' e 'ac' estão em ciclo.
+'a' e 'e' estão em ciclo.
+'a' e 'i' estão em ciclo.
+'a' e 'Em' estão em ciclo.
+'a' e 'os' estão em ciclo.
+'a' e 'ce' estão em ciclo.
+'a' e 'as' estão em ciclo.
+'na' e 'et' estão em ciclo.
+'na' e 'ad' estão em ciclo.
+'na' e 'no' estão em ciclo.
+'na' e 'ac' estão em ciclo.
+'na' e 'e' estão em ciclo.
+'na' e 'i' estão em ciclo.
+'na' e 'Em' estão em ciclo.
+'na' e 'ce' estão em ciclo.
+'na' e 'as' estão em ciclo.
+'et' e 'ad' estão em ciclo.
+'et' e 'no' estão em ciclo.
+'et' e 'ac' estão em ciclo.
+'et' e 'e' estão em ciclo.
+'et' e 'i' estão em ciclo.
+'et' e 'Em' estão em ciclo.
+'et' e 'os' estão em ciclo.
+'et' e 'ce' estão em ciclo.
+'et' e 'as' estão em ciclo.
+'ad' e 'ac' estão em ciclo.
+'ad' e 'e' estão em ciclo.
+'ad' e 'i' estão em ciclo.
+'ad' e 'Em' estão em ciclo.
+'ad' e 'os' estão em ciclo.
+'ad' e 'ce' estão em ciclo.
+'ad' e 'as' estão em ciclo.
+'no' e 'e' estão em ciclo.
+'no' e 'i' estão em ciclo.
+'no' e 'Em' estão em ciclo.
+'no' e 'os' estão em ciclo.
+'no' e 'ce' estão em ciclo.
+'quo' e 'qui' estão em ciclo.
+'ac' e 'e' estão em ciclo.
+'ac' e 'i' estão em ciclo.
+'ac' e 'Em' estão em ciclo.
+'ac' e 'os' estão em ciclo.
+'ac' e 'ce' estão em ciclo.
+'ac' e 'as' estão em ciclo.
+'e' e 'i' estão em ciclo.
+'e' e 'Em' estão em ciclo.
+'e' e 'os' estão em ciclo.
+'e' e 'ce' estão em ciclo.
+'e' e 'as' estão em ciclo.
+'i' e 'Em' estão em ciclo.
+'i' e 'os' estão em ciclo.
+'i' e 'ce' estão em ciclo.
+'i' e 'as' estão em ciclo.
+'Em' e 'os' estão em ciclo.
+'Em' e 'ce' estão em ciclo.
+'Em' e 'as' estão em ciclo.
+'os' e 'ce' estão em ciclo.
+'os' e 'as' estão em ciclo.
+'ce' e 'as' estão em ciclo.
+Digite 1 para o número de vértices
+Digite 2 para o número de arestas
+Digite 3 para grau médio de vértices
+Digite 4 para a densidade do grafo
+Digite 5 para saber se o grafo é conexo
+Digite 6 para saber quantas componentes o grafo tem
+Digite 7 para saber o tamanho da componente que uma palavra está
+Digite 8 para o tamanho médio das componentes
+Digite 9 para saber a componente máxima e mínima
+Digite 10 para saber se uma palavra está em um ciclo
+Digite 11 para saber se se duas palavras estão em um ciclo
+Digite 12 para saber a distância entre uma palavra e outra
+Digite 13 para saber a distância média entre uma palavra e outra
+Digite 14 para sair
+Finalizando...

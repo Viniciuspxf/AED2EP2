@@ -1,0 +1,45 @@
+medidas:
+    número de Vértices e Arestas ok
+    Grau médio dos Vértices 2*nArestas/nVertices ok
+    Grafo é denso? 2*nArestas/(nVertices*(nVertices-1)) ok
+
+conexidade:
+    Grafo é conexo ok
+    Quantas componentes ela tem ok
+    Tamanho médio das componentes (tam1 + tam2 + tam3)/nComp = v/nComp ok
+    Tamanho da maior componente só criar uma função pra isso (ou reaproveitar a função componentes) ok
+    Tamanho da menor componente só criar uma função pra isso (ou reaproveitar a função componentes) ok
+
+caminhos e ciclos:
+    Caminho que liga a e b? ok
+    As palavras aparecem em algum ciclo ok
+    Distancia media entre duas palavras do grafo ok
+
+Tirar repetição:
+    -usar função comum para tamComp e Componentes ok
+    -testar as funções de componentes
+    -usar função comum para dist e mediaDist ok
+    -testar as funções de distância
+    -usar função comum para os ciclos 
+    -Criar funções para ciclos ok
+
+
+função grafo
+função insere
+função bfsDistancia
+função bfsComponentes
+
+
+funções emCiclo
+
+relatório com os números
+    número de vértices
+    número de Arestas
+    densidade do grafo
+    
+    grafo é conexo
+    número de componentes
+    tamanho médio das componentes
+    número da maior/menor componente
+
+    distancia media ente duas palavras do grafo
